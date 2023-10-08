@@ -1,4 +1,4 @@
 # Trial_1
 Learning github first repo
 <br>
-Author- Garima
+Author- Garima Ranjan
